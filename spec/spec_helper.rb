@@ -1,4 +1,7 @@
-# This file is copied to spec/ when you run 'rails generate rspec:install'
+require 'rubygems'
+require 'spork'
+
+Spork.prefork do
 ENV["RAILS_ENV"] ||= 'test'
 require File.expand_path("../../config/environment", __FILE__)
 require 'rspec/rails'
@@ -40,4 +43,9 @@ RSpec.configure do |config|
   # the seed, which is printed after each run.
   #     --seed 1234
   config.order = "random"
+end
+end
+
+Spork.each_run do
+  # This code will be run each time you run your specs
 end
