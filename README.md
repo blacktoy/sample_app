@@ -22,3 +22,11 @@ Chapter 5:
 -Compact stylesheets
 
 -Added Users controller, sign up pages
+
+Chapter 6:
+
+-Create database users
+
+-User validation: character length, email regular expression
+
+-password encryption
