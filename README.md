@@ -38,3 +38,9 @@ Chapter 7:
 -avatar
 
 -stylesheets for user
+
+Chapter 8:
+
+-Sessions sign in, sign out
+
+-remember token, cookies
