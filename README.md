@@ -44,3 +44,7 @@ Chapter 8:
 -Sessions sign in, sign out
 
 -remember token, cookies
+
+Currently chpter 9.3:
+
+-Adding option = { size:50 } in app/helpers/users_helpers.rb to pass the test. Based on [stackoverflow question](http://stackoverflow.com/questions/14916144/hartl-ror-chap-9-3-1-spec-test-failure).
