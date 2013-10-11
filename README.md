@@ -48,8 +48,5 @@ Chapter 8:
 Chapter 9:
 
 -User edit, update, index users, delete user
-       '''bash    
--Adding option = { size:50 }
-       '''
-
- in app/helpers/users_helpers.rb to pass the test. Based on [stackoverflow question](http://stackoverflow.com/questions/14916144/hartl-ror-chap-9-3-1-spec-test-failure).
+   
+-Adding option = { size:50 } in app/helpers/users_helpers.rb to pass the test. Based on [stackoverflow question](http://stackoverflow.com/questions/14916144/hartl-ror-chap-9-3-1-spec-test-failure).
