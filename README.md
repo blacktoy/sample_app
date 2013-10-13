@@ -3,7 +3,7 @@
 
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
- by [Michael Hartl](http://michaelhartl.com). Just to Finish what I started and leave it in vain.
+ by [Michael Hartl](http://michaelhartl.com). Just to finish what I started and then leave it in vain.
 
 Chapter 3:
 
