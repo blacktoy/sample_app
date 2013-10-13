@@ -3,7 +3,7 @@
 
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
- by [Michael Hartl](http://michaelhartl.com).
+ by [Michael Hartl](http://michaelhartl.com). Just to Finish what I started and leave it in vain.
 
 Chapter 3:
 
@@ -49,4 +49,7 @@ Chapter 9:
 
 -User edit, update, index users, delete user
    
--Adding option = { size:50 } in app/helpers/users_helpers.rb to pass the test. Based on [stackoverflow question](http://stackoverflow.com/questions/14916144/hartl-ror-chap-9-3-1-spec-test-failure).
+-Adding "option={ size:50}" in app/helpers/users_helpers.rb to pass the test. Based on [stackoverflow question](http://stackoverflow.com/questions/14916144/hartl-ror-chap-9-3-1-spec-test-failure).
+
+-Set "config.assets.compile = .." from "false" to "true" and then run $ RAILS_ENV=production bundle exec rake assets:precompile
+ in order javascript render in heroku. Same as seen in css before. [Stackoverflow question](http://stackoverflow.com/questions/12624376/getting-my-images-in-css-to-work-on-rails-and-asset-pipeline-with-upgraded-app-o).
