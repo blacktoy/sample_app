@@ -54,4 +54,6 @@ Chapter 9:
 -Set "config.assets.compile = .." from "false" to "true" and then run $ RAILS_ENV=production bundle exec rake assets:precompile
  in order javascript render in heroku. Same as seen in css before. [Stackoverflow question](http://stackoverflow.com/questions/12624376/getting-my-images-in-css-to-work-on-rails-and-asset-pipeline-with-upgraded-app-o).
 
-Chapter 10.3.2
+Chapter 10:
+
+-Microposts: validation error, layout, user
