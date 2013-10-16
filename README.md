@@ -61,3 +61,11 @@ Chapter 10:
 -Microposts: validation error, layout, user
 
 -Fake microposts
+
+Chapter 11:
+
+-Users followed, following
+
+-User's following newsfeed, index of micropost.
+
+	Done
